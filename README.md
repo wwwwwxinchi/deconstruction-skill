@@ -58,7 +58,7 @@ C:\Users\<你的用户名>\.cursor\skills\deconstruct\
 
 ### 更加便捷的版本（？）
 
-复制本项目的地址https://github.com/wwwwwxinchi/deconstruction-skill，发给AI，让它是用户级安装（所有项目可以）/项目级安装（单个项目可用）
+复制本项目的地址[https://github.com/wwwwwxinchi/deconstruction-skill](https://github.com/wwwwwxinchi/deconstruction-skill.git)，发给AI，让它是用户级安装（所有项目可以）/项目级安装（单个项目可用）
 
 ## 文件说明
 
